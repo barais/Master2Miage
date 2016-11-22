@@ -1,6 +1,6 @@
 # Projet Miage 2016
 
-Le but du projet GLI/TAA cette année vise à redévelopper une brique du système d'information de l'ISTIC concernant la partie CRM (Gestion de la relation client) et gestion des stages.
+Le but du projet Miage cette année vise à redévelopper une brique du système d'information de l'ISTIC concernant la partie CRM (Gestion de la relation client) et gestion des stages.
 
 Nos clients au sens du CRM sont nos étudiants et l'ensemble des entreprises avec lesquels nous avons des relations (accueil de stagiaire, fournisseur, entreprise partenaire, donateur pour la taxe professionnelle, ...). Pour gérer ces données, nous disposons d'une base de données conçues il y a quelques années mais les interactions avec cette applicatif se font uniquement en SQL pour insérer des données et requeter ces données.
 
