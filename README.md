@@ -1,4 +1,4 @@
-# Projet GLI/TAA 2016
+# Projet Miage 2016
 
 Le but du projet GLI/TAA cette année vise à redévelopper une brique du système d'information de l'ISTIC concernant la partie CRM (Gestion de la relation client) et gestion des stages.
 
